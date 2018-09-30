@@ -65,8 +65,8 @@ gitalk:
   clientID: 0ebcb8f538d616e47154                            #生成的clientID
   clientSecret: 363f76eb5fd3ff2f21468ef2168f06d7fc078229    #生成的clientSecret
   repo: jarvisaitake.github.io    #仓库名称
-  owner: jarvisaitake    #github用户名
-  admin: jarvisaitake
+  owner: jarvisAitake    #github用户名
+  admin: jarvisAitake
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
